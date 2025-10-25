@@ -2,4 +2,5 @@ pandas
 seaborn
 numpy
 
--e .
+-e . 
+#-e . → “Install my current project (this directory) as a Python package in editable mode.”
